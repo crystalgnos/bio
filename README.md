@@ -1,4 +1,2 @@
-# About Crystal
-
 TODO
 
